@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganga Jyothi
 - 👀 I’m interested in software testing
-- 🌱 I’m currently working as freelance software tester
+- 🌱 I’m currently working as freelance software testing trainer
 - 💞️ As a software tester I am seeking opportunities in both manual and automation testing,
 -  I collaborate with developers, product managers, and other team members to ensure the quality and functionality of our software products
 - 📫 Reach me at ganagjyothi@gmail.com
